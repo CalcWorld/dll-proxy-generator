@@ -1,4 +1,4 @@
-# Dll Proxy Generator
+# Dll Proxy Generator 
 
 This project creates a new dll which sits between a game and the original dll. This way you can intercept all dll calls.
 
